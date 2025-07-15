@@ -1,4 +1,4 @@
-package com.wyynnn.resepinaja
+package com.wyynnn.resepinaja.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
